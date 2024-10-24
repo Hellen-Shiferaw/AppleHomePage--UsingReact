@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/css/main.dc42c544.css",
+    "main.js": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/js/main.799a3a87.js",
+    "static/media/iphone11-pro-bg.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-colored.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/spyder.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/ipodPronew.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/watch.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "static/media/ipodPronew-sm.jpg": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
+    "index.html": "/Hellen-Shiferaw/AppleHomePage-UsingReact/index.html",
+    "main.dc42c544.css.map": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/css/main.dc42c544.css.map",
+    "main.799a3a87.js.map": "/Hellen-Shiferaw/AppleHomePage-UsingReact/static/js/main.799a3a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc42c544.css",
+    "static/js/main.799a3a87.js"
+  ]
+}
