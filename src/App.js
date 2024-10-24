@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import "./commonResource/css/styles.css";
+import "./commonResource/css/bootstrap.css";
+import YoutubeVideos from "./YoutubeVideos.js/YoutubeVideos";
+import Iphone from "./Iphone/Iphone";
+import Sharedlayout from "./Sharedlayout/Sharedlayout";
+import Main from "./Main/Main1";
+import SingleAppleProduct from "./SingleAppleProduct/SingleAppleProduct";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route path="/" element={<Sharedlayout />}>
+          <Route path="/" element={<Main />} />
+          <Route path="/" element={<YoutubeVideos />} />
+          <Route path="/iphone" element={<Iphone />} />
+          <Route path="/iphones/:productUrl" element={<SingleAppleProduct />} />
+        </Route>
+      </Routes>
+    </>
   );
 }
 
